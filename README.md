@@ -39,3 +39,9 @@ A fully responsive e-commerce web application built with **React**, **Redux Tool
 - **Styling**: Custom Material-UI theme + CSS
 
 ## Screenshots
+
+![Home](https://github.com/DJNavz1423/Ecommerce-Website/blob/a1944de1a381be29fba654f57d56f0d51d8503af/mainSs.png)
+
+![Items](https://github.com/DJNavz1423/Ecommerce-Website/blob/a1944de1a381be29fba654f57d56f0d51d8503af/secondss.png)
+
+![Item Detail](https://github.com/DJNavz1423/Ecommerce-Website/blob/a1944de1a381be29fba654f57d56f0d51d8503af/image.png)
